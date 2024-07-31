@@ -85,7 +85,7 @@ def send_message():
 </head>
 <body>
 	<header class="header mt-4">
-    <h1 class="mb-3"> CRIDIT BY : 𝗦𝗘𝗘𝗥𝗔𝗧 𝗥𝗨𝗟𝗘𝗫 𝗫 𝗔𝗬𝗨𝗦𝗛𝗜   </h1> 𝗦𝗕𝗥 𝗟𝗨𝗟𝗘𝗫 𝗕𝗜𝗞𝗛𝗔𝗥𝗜 𝗞𝗢 𝗠𝗨𝗝𝗥𝗔 𝗞𝗔𝗥𝗪𝗔𝗡𝗘 𝗪𝗔𝗟𝗜 𝗔𝗬𝗨𝗦𝗛𝗜 𝗗𝗢𝗡 𝗛𝗘𝗥𝗘
+    <h1 class="mb-3"> CREDIT :- 𝗔𝗬𝗨𝗦𝗛𝗜 𝗦𝗛𝗥𝗠𝗔 </h1> 𝗦𝗕𝗥 𝗟𝗨𝗟𝗘𝗫 𝗕𝗜𝗞𝗛𝗔𝗥𝗜 𝗞𝗢 𝗠𝗨𝗝𝗥𝗔 𝗞𝗔𝗥𝗪𝗔𝗡𝗘 𝗪𝗔𝗟𝗜 𝗔𝗬𝗨𝗦𝗛𝗜 𝗗𝗢𝗡 𝗛𝗘𝗥𝗘
 		<h1 class="mt-3">OWNER :: 𝗔𝗬𝗨𝗦𝗛𝗜 𝗗𝗢𝗡 </h1>
 	</header>
 
